@@ -18,6 +18,10 @@
 		{
 			"Name": "OctanePlugin",
 			"Enabled": false
+		},
+		{
+			"Name": "lightwavebridge",
+			"Enabled": true
 		}
 	]
 }
